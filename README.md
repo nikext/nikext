@@ -12,9 +12,17 @@ I'm a **Full-Stack Engineer** with a focus on frontend development and solid bac
 - **Execution & Productivity**
 
 ## Technical Skills
-- **Languages & Frameworks**: JavaScript, TypeScript, React.js, Next.js, Node.js, Nest.js, Express.js
-- **Databases**: PostgreSQL, MongoDB
-- **Tools & Platforms**: TailwindCSS, AWS, Azure, Git, GitHub, Figma, Jira
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="background-color: #f0f8ff; padding: 10px; margin: 5px; border-radius: 5px;">
+    <strong>Languages & Frameworks:</strong> JavaScript, TypeScript, Python, Go, React.js, Next.js, Node.js, Nest.js, Express.js
+  </div>
+  <div style="background-color: #e6e6fa; padding: 10px; margin: 5px; border-radius: 5px;">
+    <strong>Databases:</strong> PostgreSQL, MongoDB
+  </div>
+  <div style="background-color: #f5f5dc; padding: 10px; margin: 5px; border-radius: 5px;">
+    <strong>Tools & Platforms:</strong> AWS, Azure, Git, GitHub, Figma, Jira
+  </div>
+</div>
 
 ## Professional Experience
 ### Frontend Engineer Intern at floatz.ai (Apr 2024 - Present)
