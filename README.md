@@ -47,7 +47,7 @@ Technical University of Sofia (2019 - 2023)
 ## Contact Me
 - **Email**: tnikola248@gmail.com
 - **GitHub**: nikext
-- **LinkedIn**: Nikola Todorovski
+- **LinkedIn**: Nikola Todorovski (https://www.linkedin.com/in/nikola-todorovski-717927247)
 
 ---
 
