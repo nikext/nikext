@@ -25,7 +25,7 @@ I'm a **Full-Stack Engineer** with a focus on frontend development and solid bac
 </div>
 
 ## Professional Experience
-### Frontend Engineer Intern at floatz.ai (Apr 2024 - Present)
+### Frontend Engineer Intern at floatz.ai (Apr 2024 - Oct 2024)
 - Redesigned web pages and enhanced UI for an AI product, improving functionality and aesthetics.
 - Implemented UI libraries and animations for a dynamic user experience.
 - Contributed to backend development, including authentication systems and Stripe payments.
