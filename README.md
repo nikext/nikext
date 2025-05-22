@@ -1,7 +1,7 @@
 # Hi there, I'm Nikola Todorovski 👋
 
 ## About Me
-I'm a **Full-Stack Engineer** with a focus on frontend development and solid backend knowledge. With 3 years of experience building web applications using **React**, **Next.js**, **Node.js**, and **TypeScript**, I'm passionate about creating intuitive, user-friendly interfaces and secure, efficient backends. I thrive in startup environments and am eager to learn new technologies while taking on diverse challenges to drive product success.
+I'm a **Full-Stack Engineer** with a focus on frontend development and solid backend knowledge. With 3 years of experience building web applications using **React**, **Next.js**, **Node.js**, and **TypeScript**, I'm passionate about creating intuitive, user-friendly interfaces and secure, efficient backends. I thrive in startup environments and am eager to learn new technologies while taking on diverse challenges to drive product success. 
 
 ## Strengths and Expertise
 - **Problem Solving**
