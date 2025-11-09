@@ -1,4 +1,4 @@
-# Hi there, I'm Nikola Todorovski 👋
+# Hi there, I'm Nikola 👋
 
 ## About Me
 I'm an **Experienced Software Engineer and IT Specialist** with 3+ years of experience building and maintaining scalable digital platforms. I specialize in **Full-Stack Development** with a focus on frontend technologies like **React** and **Next.js**, complemented by strong backend expertise in **Python** and **Node.js** with **TypeScript**. I'm passionate about creating intuitive user interfaces, secure backends, and ensuring system stability through proactive operations management. I thrive in fast-paced environments, from startups to fintech, and am eager to learn new technologies while driving product success.
@@ -26,24 +26,22 @@ I'm an **Experienced Software Engineer and IT Specialist** with 3+ years of expe
 
 ## Professional Experience
 
-### IT Operations Specialist at radicant bank (Aug 2025 - Present)
-*Zurich, Switzerland | Full-time*
+### IT Operations Specialist at radicant bank
 - Provide daily operations support for an fin-tech banking platform, managing production environments and release cycles.
 - Automate routine tasks using Python and manage cloud infrastructure on Google Cloud Platform (GCP).
 - Collaborate with development, security, and compliance teams to maintain system stability and performance.
 
-### Full-Stack Engineer at VAD Personal (Contract - 50%)
-*Bulach, Zurich, Switzerland*
+### Full-Stack Engineer at VAD Personal
 - Designed, developed and deployed a multi-tenant Employee Management System with role-based permissions for a Swiss staffing company.
 - Built responsive frontend using Next.js, TypeScript, and Tailwind CSS, with a RESTful backend API using Node.js and PostgreSQL.
 - Implemented secure authentication with NextAuth.js and PDF export functionality for employee time reports.
 
-### Frontend Engineer at floatz.ai (Apr 2024 - Oct 2024)
+### Frontend Engineer at floatz.ai
 - Redesigned web pages and enhanced UI for an AI product, improving functionality and aesthetics.
 - Implemented UI libraries and animations for a dynamic user experience.
 - Contributed to backend development, including authentication systems and Stripe payment integration.
 
-### Software Engineer at Amdocs (Mar 2021 - May 2023)
+### Software Engineer at Amdocs
 - Implemented new features to enhance user experience in cloud-based web applications.
 - Identified and resolved bugs, ensuring smooth software operation.
 - Led technical discussions and contributed to strategic planning for future development.
@@ -51,11 +49,6 @@ I'm an **Experienced Software Engineer and IT Specialist** with 3+ years of expe
 ## Education
 **Bachelor of Informatics and Software Science**  
 Technical University of Sofia (2019 - 2024)
-
-## Languages
-- **English**: Professional
-- **German**: Basic
-- **Bulgarian**: Native
 
 ## Contact Me
 - **Email**: tnikola248@gmail.com
