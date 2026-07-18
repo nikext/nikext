@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a Software Engineer with **4+ years** designing, building, and operating scalable platforms across fintech and startups. I work **end-to-end** — from **system design and solution architecture** through full-stack delivery (**React/Next.js**, **Node.js/TypeScript**, **Python**) to running reliable production infrastructure on **GCP**.
+I'm a Software Engineer with **4+ years** designing, building, and operating scalable platforms across fintech and startups. I work **end-to-end** — from **system design and solution architecture** through full-stack delivery (**React/Next.js**, **Node.js/TypeScript**, **Python**, **SwiftUI**) to running reliable production infrastructure on **GCP**.
 
 What I enjoy most is working **directly with clients and stakeholders** — turning ambiguous business problems into clear technical solutions and shipping them to production. I build **AI-native**: using **Claude Code**, **Codex**, and **Gemini** day to day, and designing **AI agent** workflows with **MCP (Model Context Protocol)** to automate operations and accelerate delivery. Strong communicator, fast learner, and happy to own a problem from the first conversation to the final deploy.
 
@@ -20,7 +20,7 @@ What I enjoy most is working **directly with clients and stakeholders** — turn
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="background-color: #f0f8ff; padding: 10px; margin: 5px; border-radius: 5px;">
-    <strong>Languages & Frameworks:</strong> TypeScript, JavaScript, Python, React, Next.js, Node.js, Nest.js, SQL
+    <strong>Languages & Frameworks:</strong> TypeScript, JavaScript, Python, SwiftUI, Next.js, Node.js, Nest.js, SQL
   </div>
   <div style="background-color: #e6e6fa; padding: 10px; margin: 5px; border-radius: 5px;">
     <strong>Cloud & Infrastructure:</strong> GCP, AWS, Terraform, GKE / Kubernetes, Docker, CI/CD, Observability
@@ -49,7 +49,7 @@ What I enjoy most is working **directly with clients and stakeholders** — turn
 - Redesigned and enhanced the UI of an AI product, improving usability and visual polish with modern UI libraries and animations.
 - Contributed to backend development, including authentication and Stripe payment integration.
 
-### Software Engineer at Amdocs
+### Software Engineer - Amdocs
 - Implemented new features to enhance user experience in cloud-based web applications.
 - Identified and resolved bugs, ensuring smooth software operation.
 - Led technical discussions and contributed to strategic planning for future development.
