@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a Software Engineer with **4+ years** designing, building, and operating scalable platforms across fintech and startups. I work **end-to-end** — from **system design and solution architecture** through full-stack delivery (**React/Next.js**, **Node.js/TypeScript**, **Python**, **SwiftUI**) to running reliable production infrastructure on **GCP**.
+I'm a Software Engineer with **5+ years** designing, building, and operating scalable platforms across fintech and startups. I work **end-to-end** — from **system design and solution architecture** through full-stack delivery (**React/Next.js**, **Node.js/TypeScript**, **Python**, **SwiftUI**) to running reliable production infrastructure on **GCP**.
 
 What I enjoy most is working **directly with clients and stakeholders** — turning ambiguous business problems into clear technical solutions and shipping them to production. I build **AI-native**: using **Claude Code**, **Codex**, and **Gemini** day to day, and designing **AI agent** workflows with **MCP (Model Context Protocol)** to automate operations and accelerate delivery. Strong communicator, fast learner, and happy to own a problem from the first conversation to the final deploy.
 
@@ -60,8 +60,8 @@ What I enjoy most is working **directly with clients and stakeholders** — turn
 
 ## Contact
 
-- **Email:** tnikola248@gmail.com
 - **GitHub:** [nikext](https://github.com/nikext)
+- **HuggingFace:** [nikext](https://huggingface.co/nikext)
 - **LinkedIn:** [Nikola Todorovski](https://www.linkedin.com/in/nikola-todorovski-717927247)
 
 ---
